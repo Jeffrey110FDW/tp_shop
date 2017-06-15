@@ -1,2 +1,2 @@
 <?php
-pathinfo();
+phpinfo();
